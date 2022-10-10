@@ -40,8 +40,7 @@ int main()
             	flip(); // turn 180 degrees(flip to the opposite way)
             	counter = 0; // reset the # of times the sensors were touched back to 0 so it could run the default escape
         	}
-        }
-        
+        } 
     }
     return 0; // end main function
 }
